@@ -15,8 +15,6 @@ body {
 .sakura-miyawaki-img {
         float: left;
         display: block;
-        margin-left: 0;
-        margin-right: 0;
         width: 50%;
         height: 10%;
         padding: auto 10px auto auto;
