@@ -16,6 +16,7 @@ body {
         width: 25%;
         height: 25%;
         padding-right: 10px;
+        border-radius: 50%;
 }
 
 .introp {
