@@ -8,7 +8,7 @@ body {
 
 .introdiv-row {
         width: 50%;
-        margin: 100px 0 100px 0;
+        margin: 100px auto 100px auto;
         text-align: left;    
 }
 
