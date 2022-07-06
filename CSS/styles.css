@@ -8,7 +8,8 @@ body {
 
 .introdiv-row {
         width: 50%;
-        margin: 100px auto 100px auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
         text-align: left;    
 }
 
@@ -17,7 +18,7 @@ body {
         display: block;
         width: 50%;
         height: 10%;
-        padding: auto 10px auto auto;
+        padding-top: auto 10px auto auto;
 }
 
 .introp {
