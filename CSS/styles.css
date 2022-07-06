@@ -9,8 +9,30 @@ image {
     height: 10px;
 }
 
+.introdiv {
+    display: block;
+}
+
+.introdiv-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;    
+}
+
+.sakura-miyawaki-img {
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+}
+
+.introp {
+        text-align: left;
+}
+
 h1   {
     color: #66BFBF;
+    padding-bottom: 10px;
+    text-align: left;
 }
 
 h3   {
