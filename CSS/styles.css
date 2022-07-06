@@ -3,8 +3,7 @@ body {
 }
 
 .introdiv-row {
-        width: 50%;
-        height: 50%;
+        width: auto;
         margin-top: 20px;
         margin-bottom: 20px;
         margin-left: 0px;
@@ -13,8 +12,8 @@ body {
 
 .sakura-miyawaki-img {
         float: left;
-        max-width: 50%;
-        max-height: 50%;
+        max-width: 100%;
+        height: auto;
         padding-right: 10px;
 }
 
