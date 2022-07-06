@@ -4,7 +4,7 @@ body {
 
 .introdiv-row {
         width: auto;
-        height: 400px;
+        height: auto;
         margin-top: 20px;
         margin-bottom: 20px;
         margin-left: 0px;
@@ -14,7 +14,7 @@ body {
 .sakura-miyawaki-img {
         float: left;
         width: 25%;
-        height: 25%;
+        height: 16%;
         padding-right: 10px;
         border-radius: 50%;
 }
