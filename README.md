@@ -1,2 +1,2 @@
 # NormalCV1
-I'm actually South African and speak Xhosa as my native language. This is about one of my waifus. I can't believe some people died because of an anime girl (yae kokonoe)...... 
+This is about me.
