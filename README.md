@@ -1,2 +1,2 @@
 # NormalCV1
-This is about me. I can't believe some people died because of an anime girl (yae kokonoe) who is cute and is also my waifu which I like....
+This is about me. 
