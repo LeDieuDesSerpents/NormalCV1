@@ -1,16 +1,16 @@
 body {
     background-color: #6e3cbc;
-    display: inline-block;
-    padding: 5px;
 }
 
 .introdiv-row {
+        display: inline-block;
         width: auto;
         height: 200px;
         margin-top: 20px;
         margin-bottom: 20px;
         margin-left: 0px;
         text-align: left;    
+        padding: 5px;
 }
 
 .sakuramiyawaki-img {
